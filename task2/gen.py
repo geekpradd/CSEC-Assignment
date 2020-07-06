@@ -7,9 +7,9 @@ def conv(x):
 	out = []
 	for c in x:
 		if c == '1':
-			out.append(255)
-		else:
 			out.append(0)
+		else:
+			out.append(255)
 	return out
 
 def dump(r, data):
