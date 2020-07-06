@@ -1,0 +1,53 @@
+Reading packets, please wait...Opening friday.pcap
+[0KRead 7841 packets.
+
+   #  BSSID              ESSID                     Encryption
+
+   1  62:F6:77:09:A3:B7  Friday                    WPA (1 handshake)
+
+Choosing first network as target.
+
+Reading packets, please wait...Opening friday.pcap
+[0KRead 7841 packets.
+
+1 potential targets
+
+[2J[2;31HAircrack-ng 1.5.2 [3;0H[0J[4;7H[00:00:00] 1376/7564 keys tested (9108.95 k/s) [6;7HTime left: 0 seconds                                      18.19%
+[8;24HCurrent passphrase: carlosfernando             
+[11;7HMaster Key     : E9 04 81 F3 A4 08 8C AC FE D8 19 3E 90 87 E2 3C [48D[1B71 2D E6 B9 5A 52 1F B6 67 B9 B5 01 E4 C4 4E DE [14;7HTransient Key  : 0C E9 A2 AC 8C 5E 21 06 75 5E D0 70 16 69 AC B8 
+[23C9A 0E 57 1B 7D 40 02 8B E4 1E E8 4A 4A 65 E3 A8 
+[23CA0 40 BE 3F 4D BA 64 62 AB 14 64 7B 9B 20 7B 09 
+[23CC8 4C 83 24 C3 64 5A 37 4A 80 47 DB F7 C3 34 65 [19;7HEAPOL HMAC     : 11 68 EC 24 F2 F0 3B 93 41 CD 67 F6 B4 0B 3F 30 
+[3;0H[0J[4;7H[00:00:00] 2832/7564 keys tested (9383.01 k/s) [6;7HTime left: 0 seconds                                      37.44%
+[8;24HCurrent passphrase: rosieisthebest             
+[11;7HMaster Key     : 27 B1 37 59 08 CB 25 A0 55 55 EF F4 BF AD 4A 9C [48D[1B9B 39 1B 1C 4F 6A 90 02 75 E6 C1 FE C6 E9 9E 54 [14;7HTransient Key  : 06 0F E5 5D C8 B1 C1 4B 70 3B E0 9B 44 99 FD D5 
+[23CF6 8D 42 78 90 D3 84 F4 F8 4C 57 92 5E 2F 1B 6B 
+[23C6D 4F 7A 3A 86 9C C3 89 C1 45 6A 0F DC D8 3B 85 
+[23CFE 9A 29 1C B0 A2 DC CB 29 2D 8A 63 CC 80 17 6D [19;7HEAPOL HMAC     : 79 E5 DD CF 69 66 0A 03 EB DF C7 AA 39 C8 90 1B 
+[3;0H[0J[4;7H[00:00:00] 4288/7564 keys tested (9447.14 k/s) [6;7HTime left: 0 seconds                                      56.69%
+[8;24HCurrent passphrase: sweetchildofmine           
+[11;7HMaster Key     : 6C 10 9C 40 D2 F7 C4 29 1F A8 E3 0E 9F 04 63 66 [48D[1B52 09 16 CD 57 D5 77 E7 3F 7E DA 0E 65 F9 78 E9 [14;7HTransient Key  : DC D8 93 7D 19 3F 81 0E C3 F8 11 20 00 AB AA 38 
+[23CF9 02 A6 C6 6F 9D 04 A2 19 19 11 59 00 6C 5B 19 
+[23CDD 94 59 5D D7 DD 38 A8 D6 43 F2 67 9C 0E DD 6D 
+[23CFD E0 3B 72 47 22 20 22 5B 72 0A 91 BC D4 BF 8B [19;7HEAPOL HMAC     : 79 8E AC 47 59 5C D6 3F 46 59 0C 79 9E D1 A0 62 
+[3;0H[0J[4;7H[00:00:00] 5456/7564 keys tested (8985.73 k/s) [6;7HTime left: 0 seconds                                      72.13%
+[8;24HCurrent passphrase: lilchayechaye1625          
+[11;7HMaster Key     : 74 92 B1 47 1C 34 3B 4A DC BD 50 EC 85 FB E1 6B [48D[1B9D F5 C6 4A 5C AE A9 2E 78 30 80 81 1C 32 CF 01 [14;7HTransient Key  : 19 DA 48 1F 45 B0 AE 03 F4 7F EA 35 DE 55 DA C9 
+[23C63 02 91 EE A3 47 00 0A FB 09 3D C9 39 AC 15 7D 
+[23C7D BA A4 2F 35 43 93 B2 3C 0E 1A A9 CF F9 6D FC 
+[23C3B C0 4A 1A D2 52 C5 DC 42 5F A8 1A D9 F1 91 37 [19;7HEAPOL HMAC     : F9 4D B7 7C 5E 42 E5 81 02 9B F7 E9 0F D8 DE 7B 
+[3;0H[0J[4;7H[00:00:00] 6632/7564 keys tested (8740.28 k/s) [6;7HTime left: 0 seconds                                      87.68%
+[8;24HCurrent passphrase: darkangel78971571421       
+[11;7HMaster Key     : AA 7B F6 25 D5 BD A8 3B 26 30 E6 47 7E CB DC 38 [48D[1B23 71 84 C7 07 7E CC 7B 50 B6 E9 BE C8 71 55 11 [14;7HTransient Key  : 52 01 DA 11 93 9D 3C B0 D7 01 34 92 36 3A 89 6D 
+[23CB8 65 6C A4 CC DB 87 C0 72 F0 29 AE 6A 6F B5 BF 
+[23C95 56 52 E7 86 F2 E2 23 E8 41 22 BE D6 41 7D ED 
+[23C97 62 D6 BC 7B DB 79 16 04 CB 61 7D 4E 12 52 26 [19;7HEAPOL HMAC     : 30 A0 24 B5 F8 9A 69 18 63 8A 7F E3 55 1F 42 9F 
+[3;0H[0J[4;7H[00:00:00] 7223/7564 keys tested (8478.47 k/s) [6;7HTime left: 0 seconds                                      95.49%
+[8;24HCurrent passphrase: bhavesh007bhavika          
+[11;7HMaster Key     : AC 20 10 76 71 51 8E 22 9E D2 6D 66 CA A1 B3 53 [48D[1B90 83 39 C7 58 43 51 31 92 E1 39 BD E5 A3 5C 0D [14;7HTransient Key  : E1 F6 EF C9 64 27 FD B4 46 BE A6 B6 FF D3 59 07 
+[23CBF E7 5B E9 03 CB 57 FE 2E 46 92 6A 43 FE D9 8E 
+[23CD4 37 07 BC EF 0A CF 02 7F 1D DE 5C 6C 9D E3 0B 
+[23C9C FC 24 B5 63 EB C1 18 38 56 9D 55 ED FF 9F AF [19;7HEAPOL HMAC     : 6B 4D 04 43 B1 B1 EC 24 06 38 9A 1B 07 05 5E 50 
+[8;24H[2KKEY FOUND! [ bhavesh007bhavika ]
+[11B[8;24H[2KKEY FOUND! [ bhavesh007bhavika ]
+[11B
